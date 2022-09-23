@@ -40,7 +40,6 @@ I am looking for a job as a Data Scientist, Research Engineer as my <font size="
 
 * **Product Manager**  *<font size="3">&nbsp;&nbsp;&nbsp;Didi Chuxing Technology Co, Beijing, China</font>*  <font size="2.8">&nbsp;&nbsp;&nbsp;May 2017 - Aug. 2017</font> 
   * Subject: Analysis and Optimization of Ride Order Cancellation Processes 
-  * Supervisor: [Prof. Adam Ouorou](https://dblp.org/pid/32/3766.html)
   * Analyze data related to ride cancellations, such as call records, driver's trajectory, and traffic conditions, in order to improve the accuracy of the judgment of the person responsible for order cancellation.
 
 
